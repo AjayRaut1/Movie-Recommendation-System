@@ -1,10 +1,10 @@
 # Movie-Recommendation-System
 It is a Movie Recommendation Machine Learning Model
 
-Steps Followed during the Project Journey:
-1)Dataset & Jupyter notebook setup
-2)Data Preprocessing
-3)Vectorization
-4)Main function
-5)Frontend/Streamlit
-6)Deployment
+Steps Followed during the Project Journey: <BR>
+1)Dataset & Jupyter notebook setup <BR>
+2)Data Preprocessing <BR>
+3)Vectorization <BR>
+4)Main function <BR>
+5)Frontend/Streamlit <BR>
+6)Deployment <BR>
